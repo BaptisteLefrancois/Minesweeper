@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="uk.ac.brookes.lefrancois.minesweeper"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <uses-sdk
+            android:minSdkVersion="7"
+            android:targetSdkVersion="16"/>
+
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+
+    <application
+            android:allowBackup="true"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+        <provider
+                android:name="uk.ac.brookes.lefrancois.minesweeper.logic.HighScoresContentProvider"
+                android:authorities="uk.ac.brookes.lefrancois.minesweeper.logic.HighScoresContentProvider"
+                android:multiprocess="true"/>
+
+
+        <!--             android:configChanges="orientation|keyboardHidden|screenSize"
+                    android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme"
+        -->
+        <activity
+                android:name="uk.ac.brookes.lefrancois.minesweeper.MenuActivity"
+                android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="uk.ac.brookes.lefrancois.minesweeper.PartyActivity"/>
+        <activity android:name="uk.ac.brookes.lefrancois.minesweeper.HighScoresActivity"/>
+        <activity
+                android:name="uk.ac.brookes.lefrancois.minesweeper.SettingsActivity"
+                android:label="@string/title_activity_settings">
+        </activity>
+    </application>
+
+</manifest>

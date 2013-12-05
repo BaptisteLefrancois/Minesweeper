@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="holo_blue_light_like">#FF33b5e5</color>
+    <color name="yellow_fade">#FFFFFF55</color>
+
+</resources>

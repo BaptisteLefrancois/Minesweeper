@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res" >
+            <file
+                name="avatar"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\avatar.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="choose"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\choose.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="five"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\five.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="flag"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\flag.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="four"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\four.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="height"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\height.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="mine"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\mine.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="one"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\one.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="restart"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\restart.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="seven"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\seven.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="shovel"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\shovel.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="six"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\six.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="three"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\three.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="title"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\title.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="two"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\two.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avatar"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\avatar.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="choose"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\choose.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="five"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\five.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="flag"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\flag.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="four"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\four.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="height"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\height.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mine"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\mine.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="one"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\one.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="restart"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\restart.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="seven"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\seven.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="shovel"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\shovel.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="six"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\six.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="three"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\three.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="title"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\title.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="two"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\two.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avatar"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\avatar.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="choose"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\choose.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="five"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\five.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="flag"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\flag.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="four"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\four.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="height"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\height.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="mine"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\mine.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="one"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\one.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="restart"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\restart.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="seven"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\seven.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="shovel"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\shovel.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="six"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\six.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="three"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\three.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="title"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\title.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="two"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\two.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avatar"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\avatar.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="choose"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\choose.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="five"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\five.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="flag"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\flag.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="four"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\four.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="height"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\height.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="mine"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\mine.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="one"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\one.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="restart"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\restart.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="seven"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\seven.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="shovel"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\shovel.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="six"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\six.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="three"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\three.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="title"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\title.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="two"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\two.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_highscores"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\layout\activity_highscores.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_menu"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\layout\activity_menu.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_party"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\layout\activity_party.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_settings"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\layout\activity_settings.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_highscores"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\layout-land\activity_highscores.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="activity_menu"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\layout-land\activity_menu.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="activity_party"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\layout-land\activity_party.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="activity_settings"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\layout-land\activity_settings.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="settings"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\menu\settings.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="beep"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\raw\beep.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="explosion"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\raw\explosion.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="fanfare"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\raw\fanfare.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="flag"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\raw\flag.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="win"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\raw\win.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="ButtonBarContainerTheme" >
+                    <attr
+                        name="buttonBarStyle"
+                        format="reference" />
+                    <attr
+                        name="buttonBarButtonStyle"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="yellow_fade" >#FFFFFF55
+                </color>
+                <color name="black_overlay" >#66000000
+                </color>
+                <color name="holo_blue_light_like" >#FF33b5e5
+                </color>
+            </file>
+            <file
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\values\layouts.xml"
+                qualifiers="" >
+                <bool name="isTablet" >
+false
+                </bool>
+            </file>
+            <file
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="normal" >Normal
+                </string>
+                <string name="title_activity_settings" >Settings
+                </string>
+                <string name="choose_contact" >Choose contact
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="restart_title" >Restart
+                </string>
+                <string name="highscores" >HighScores
+                </string>
+                <string name="size" >Size : 
+                </string>
+                <string name="quit_title" >Exit
+                </string>
+                <string name="youwin_message" >You win !
+                </string>
+                <string name="gameover_message" >Game Over !
+                </string>
+                <string name="beep_active" >Beep every 30 sec.
+                </string>
+                <string name="sound_active" >Sound
+                </string>
+                <string name="play_button" >Play !
+                </string>
+                <string name="yes" >Yes
+                </string>
+                <string name="player" >Player :
+                </string>
+                <string name="resume" >Resume
+                </string>
+                <string name="app_name" >Minesweeper
+                </string>
+                <string name="no" >No
+                </string>
+                <string name="auto_flag_active" >Flag by long press
+                </string>
+                <string name="settings_button" >Settings
+                </string>
+                <string name="timed" >Timed
+                </string>
+                <string name="current_mode_text" >Current mode
+                </string>
+                <string name="restart_message" >Are you sure you want to restart the game ?
+                </string>
+                <string name="game_mode" >Game mode : 
+                </string>
+                <string name="game_title" >Minesweeper
+                </string>
+                <string name="highscores_button" >High Scores
+                </string>
+                <string name="quit_message" >Are you sure you want to quit the game ?
+                </string>
+            </file>
+            <file
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="FullscreenTheme"
+                    parent="android:Theme.Holo.NoActionBar.Fullscreen" >
+                    <item name="android:windowContentOverlay">
+@null
+                    </item>
+                    <item name="android:windowBackground">
+@null
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="FullscreenTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\values-large\layouts.xml"
+                qualifiers="large" >
+                <bool name="isTablet" >
+true
+                </bool>
+            </file>
+            <file
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\values-sw600dp\layouts.xml"
+                qualifiers="sw600dp" >
+                <bool name="isTablet" >
+true
+                </bool>
+            </file>
+            <file
+                name="settings"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xxhdpi\settings.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="settings"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-mdpi\settings.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="settings"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-xhdpi\settings.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="settings"
+                path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\main\res\drawable-hdpi\settings.png"
+                qualifiers="hdpi"
+                type="drawable" />
+        </source>
+        <source path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Baptiste\AndroidStudioProjects\MinesweeperProject\Minesweeper\src\debug\res" />
+    </dataSet>
+
+</merger>

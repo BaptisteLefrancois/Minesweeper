@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="game_title">Minesweeper</string>
+    <string name="app_name">Minesweeper</string>
+    <string name="play_button">Play !</string>
+    <string name="highscores_button">High Scores</string>
+    <string name="settings_button">Settings</string>
+    <string name="current_mode_text">Current mode</string>
+    <string name="resume">Resume</string>
+    <string name="quit_message">Are you sure you want to quit the game ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="quit_title">Exit</string>
+    <string name="gameover_message">Game Over !</string>
+    <string name="youwin_message">You win !</string>
+    <string name="restart_title">Restart</string>
+    <string name="restart_message">Are you sure you want to restart the game ?</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_contact">Choose contact</string>
+    <string name="game_mode">Game mode : </string>
+    <string name="normal">Normal</string>
+    <string name="timed">Timed</string>
+    <string name="size">Size : </string>
+    <string name="sound_active">Sound</string>
+    <string name="beep_active">Beep every 30 sec.</string>
+    <string name="auto_flag_active">Flag by long press</string>
+    <string name="player">Player :</string>
+    <string name="highscores">HighScores</string>
+
+</resources>

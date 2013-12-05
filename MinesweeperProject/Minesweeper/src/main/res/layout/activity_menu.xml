@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_gravity="fill"
+              android:gravity="center"
+              android:orientation="vertical"
+              tools:context=".MenuActivity">
+
+
+    <ImageView
+            android:id="@+id/game_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside"
+            android:gravity="center"
+            android:src="@drawable/title"
+            android:text="@string/game_title"/>
+
+    <Button
+            android:id="@+id/play_button"
+            style="buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:padding="16dp"
+            android:gravity="center"
+            android:textColor="@color/holo_blue_light_like"
+            android:textStyle="bold"
+            android:textSize="40sp"
+            android:background="#00FFFFFF"
+            android:text="@string/play_button"/>
+
+    <Button
+            android:id="@+id/highscores_button"
+            style="buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:padding="16dp"
+            android:gravity="center"
+            android:textColor="@color/holo_blue_light_like"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:background="#00FFFFFF"
+            android:text="@string/highscores_button"/>
+
+    <Button
+            android:id="@+id/settings_button"
+            style="buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:padding="16dp"
+            android:gravity="center"
+            android:textColor="@color/holo_blue_light_like"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:background="#00FFFFFF"
+            android:text="@string/settings_button"/>
+
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android design rules defines tablet as values-large for new versions-->
+    <bool name="isTablet">true</bool>
+</resources>

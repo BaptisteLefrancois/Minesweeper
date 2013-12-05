@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#0099cc"
+                tools:context=".MenuActivity">
+
+    <TextView
+            android:id="@+id/highscores_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:text="@string/highscores"
+            android:gravity="center"/>
+
+    <TextView
+            android:id="@+id/highscores_mode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:layout_centerHorizontal="true"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:text="@string/timed"
+            android:gravity="center"
+            android:layout_below="@+id/highscores_title"/>
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/highscores_mode"
+            android:layout_above="@+id/switch_highscores_mode">
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <LinearLayout
+                    android:id="@+id/highscores_normal_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:id="@+id/highscores_timed_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+            android:id="@+id/switch_highscores_mode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true">
+
+        <Button
+                android:id="@+id/highscores_normal_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.Medium"
+                android:text="@string/normal"/>
+
+        <Button
+                android:id="@+id/highscores_timed_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.Medium"
+                android:text="@string/timed"/>
+    </LinearLayout>
+
+</RelativeLayout>

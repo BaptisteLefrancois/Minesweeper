@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Minesweeper/Minesweeper.iml" filepath="$PROJECT_DIR$/Minesweeper/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinesweeperProject.iml" filepath="$PROJECT_DIR$/MinesweeperProject.iml" />
+    </modules>
+  </component>
+</project>
+
